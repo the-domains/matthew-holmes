@@ -1,0 +1,28 @@
+name: Matthew Holmes
+favicon: null
+layout_spectrum: 0.5819347605574876
+typography_spectrum: 0.3077632130589336
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9740320106502622
+  lightness: 0.837291767122224
+  saturation: 0.43130485620349646
+  rhythmicContrast: 0.38315819995477796
+purpose: []
