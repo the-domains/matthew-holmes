@@ -1,7 +1,7 @@
 name: Matthew Holmes
 favicon: null
-layout_spectrum: 0.5819347605574876
-typography_spectrum: 0.3077632130589336
+layout_spectrum: 0.50327
+typography_spectrum: 0.39498
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.9740320106502622
-  lightness: 0.837291767122224
-  saturation: 0.43130485620349646
-  rhythmicContrast: 0.38315819995477796
+  brandStrength: 1
+  lightness: 0.8125
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
